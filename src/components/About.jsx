@@ -21,7 +21,7 @@ const About = () => {
             I’m constantly learning and evolving in the world of web development, and I love taking on new challenges that push my skills further. Whether it's collaborating with teams or working on solo projects, my goal is to deliver high-quality solutions that make an impact.
             </p>
             <div className='flex pt-9 justify-center '>
-              <a href={CV} download="SuyogRaiCV" className='bg-gradient-to-r from-green-200 via-slate-300 to-green-600 text-black hover:opacity-65 hover:scale-105 transition-all duration-300 ease-in-out font-semibold py-2 px-4 rounded-2xl'>Download Resume</a>
+              <a href={CV} download="Suyog Rai" className='bg-gradient-to-r from-green-200 via-slate-300 to-green-600 text-black hover:opacity-65 hover:scale-105 transition-all duration-300 ease-in-out font-semibold py-2 px-4 rounded-2xl'>Download Resume</a>
             </div>
         </motion.div>
       </div>

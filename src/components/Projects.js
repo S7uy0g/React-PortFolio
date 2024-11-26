@@ -1,6 +1,7 @@
 import Hotel from "../assets/Hotel.png"
 import Game from "../assets/Game.png"
 import Pokepedia from "../assets/Pokepedia.png"
+import ToDo from "../assets/ToDO.png"
 
 export const PROJECTS=[
     {
@@ -23,5 +24,12 @@ export const PROJECTS=[
         tools:["ReactsJS"],
         photo:Pokepedia,
         url:"https://pokepedia-gules.vercel.app",
+    },
+    {
+        name:"ToDo web app",
+        discription:"Interactive to-do application for task management.",
+        tools:["ReactsJS","Typescript"],
+        photo:ToDo,
+        url:"https://to-do-typescript-tau.vercel.app",
     },
 ];
